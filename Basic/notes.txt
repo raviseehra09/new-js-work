@@ -1,0 +1,11 @@
+for basic templete in html:
+    shift + ! then enter
+
+link CSS to html
+    1) use link tag
+    2) use " rel " attribute to relate Stylesheet
+    3) use " href " attribute to refer the stylesheet
+
+link javascript
+    1) use script tag
+    2) use " src " attribute to relate script
